@@ -15,7 +15,6 @@
 # Area of improvemnet
 
 - Some of the Tag routes are not working properly
-- product routes need to be added.
 
 # Github Repo URL
 
